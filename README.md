@@ -10,6 +10,7 @@ Power BI · Loginom · Glarus BI · Excel · Git · C++
 
 | Проект | Что сделано | Стек |
 | --- | --- | --- |
+| [Антибиотики в молоке по спектрам](https://github.com/mishailN17noname/milk-antibiotics-classification) | Классификация 6 классов по вольтамперограммам: сравнение 9 моделей, accuracy 0,91, проверка на новых концентрациях | Python, scikit-learn |
 | [Прогноз цен на квартиры в Москве](https://github.com/mishailN17noname/moscow-housing-price-nn) | EDA и корреляционный анализ 22 676 объявлений, нейросеть для регрессии цены (R² = 0,78), интерпретация признаков | R, neuralnet, ggplot2, Glarus BI |
 | [Популярность фильмов по жанрам](https://github.com/mishailN17noname/kion-genre-analysis-loginom) | Сценарий обработки данных онлайн-кинотеатра: очистка, объединение, агрегирование, визуализация | Loginom |
 | [Сигналы и обработчики на C++](https://github.com/mishailN17noname/cpp-signals-handlers) | Дерево объектов и событийное взаимодействие (паттерн «Наблюдатель»), тест из курсовой | C++17 |
